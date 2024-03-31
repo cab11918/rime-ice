@@ -4,7 +4,6 @@
 
 build/
 sync/
-*.userdb/
 installation.yaml
 user.yaml
 *.custom.yaml
