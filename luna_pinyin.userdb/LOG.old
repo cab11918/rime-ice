@@ -1,2 +1,5 @@
-2024/03/29-15:23:51.533422 0x2052c3ac0 Creating DB /Users/mhy/Library/Rime/luna_pinyin.userdb since it was missing.
-2024/03/29-15:23:51.560442 0x2052c3ac0 Delete type=3 #1
+2024/03/29-15:29:52.080764 0x2052c3ac0 Recovering log #3
+2024/03/29-15:29:52.080824 0x2052c3ac0 Level-0 table #5: started
+2024/03/29-15:29:52.087389 0x2052c3ac0 Level-0 table #5: 1424 bytes OK
+2024/03/29-15:29:52.103998 0x2052c3ac0 Delete type=0 #3
+2024/03/29-15:29:52.104051 0x2052c3ac0 Delete type=3 #2
